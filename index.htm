@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+var cookies = 0;
+var pointers = 0;
+var cps = 0;
+var grandmas = 0;
+function refreshVisuals() {
+document.getElementById("cookiesCount").innerHTML= "Current Cookies: " + cookies;
+
+document.getElementById("pointersCount").innerHTML= "Current pointers: " + pointers;
+
+document.getElementById("cps").innerHTML= "Cps: " + cps.toFixed(1);
+
+
+}
+function updateCounts() {
+    cookies += cps;
+}
+function bigCookieClicked() {
+    cookies++;
+    refreshVisuals();
+}
+function buyPointer() {
+	pointers += 1;
+    cookies -= 10;
+    cps += 0.1;
+    refreshVisuals();
+}
+function buyGrandma() {
+    grandmas += 1;
+    cookies -= 100;
+    cps += 1;
+    refreshVisuals();
+    }
+function initialize() {
+	setInterval(tick, 1000);
+}
+function tick() {
+    updateCounts();
+    refreshVisuals();
+}
+initialize();
+</script>
+<style>
+#bigCookie {
+border: none;
+background-color: white;
+}
+h1 {
+text-shadow:1px 1px 5px black;
+color:white;
+font-family:merriweather;
+font-weight: bold;
+}
+.upgradeRow {
+	display: flex;
+    align-items: center;
+    height:25px;
+    border-weight:1px;
+    gap: 25px;
+}
+.upgrades {
+	algign-items: left;
+    gap:20px;
+    
+}
+
+#upgrades button {
+    text-align:center;
+}
+
+
+</style>
+</head>
+<body>
+<div style="text-align:center">
+<h1>Cookie Clicker</h1>
+<button onclick="bigCookieClicked()" id="bigCookie">
+   <img src="https://static.wikia.nocookie.net/cookieclicker/images/5/5a/PerfectCookie.png">
+</button>
+<p id="cookiesCount">Current Cookies: 0</p>
+<p id="cps">Cps: 0</p>
+</div>
+<div id="upgrades">
+	<div class="upgradeRow">
+	<button onclick="buyPointer()">Buy Pointer</button>
+    <p>Cost: 10 cookies</p>
+    <i>pointy!</i>
+    <p id="pointersCount">Current pointers: 0</p>
+	</div>
+    <div class="upgradeRow">
+    <button onclick="buyGrandma()">Buy Grandma</button>
+    <p>Cost: 100 Cookies</p><i>a nice grandma to bake you more cookies.</i>
+    <p id="grandmasCount">Current grandmas: 0</p>
+    </div>
+</div>
+</body>
+</html>
+
