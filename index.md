@@ -1,5 +1,5 @@
 ---
 title: Max Walker
-description: _5,000 steps behind you_
+description: *Studious High School Junior*
 ---
-Welcome to my website! It's still under construction...
+Hello! I'm Max, a Junior at Farmington High School who is always working to learn things and improve my skills.
