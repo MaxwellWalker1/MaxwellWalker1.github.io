@@ -4,4 +4,5 @@ description: "<em>A timeline visualizing my potential pathways as I continue my 
 ---
 ![timeline](./TimelineImage.png)
 
-TODO: explain choices
+TODO: explain choices <br>
+[back to home](./)
