@@ -1,3 +1,6 @@
+---
+title: SMART Goal
+---
 ## Overview
 In order to build my front-end / development skills, I set a goal for myself to build my portfolio from scratch on a personally hosted domain, as opposed to on a website development platform like Google Sites or Wix. This would mean I would have to do significantly more work, as I would have to code all of the buttons, images, and styling myself, but I knew that this would give me valuable experience that would be useful in my future computer science career.
 ## The SMART Process
