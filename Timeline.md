@@ -19,9 +19,5 @@ The options after this point are:
 1. The job search is very difficult, due to either picking a career with an extremely competitive job market, or simply being unlucky. In this case, it would likely take me a long time to find a job, but I would try my hardest and also consider working in a slightly different field.
 2. The job search is moderately difficult, leading to me getting a job within a year of graduating college. This is, in my opinion, the most likely outcome, which would hopefully have me making a steady paycheck.
 3. The job search is extremely easy, likely due to me making lucky connections in college that guarantee me a job right out of college. This would be extremely beneficial to me, as I could start making money and improving my career very fast. <br>
-<a href="./AboutMe.md"><button>About Me</button></a> |
-<a href="./JobOpening.md"><button>Job Opening</button></a> |
-<a href="./Timeline.md"><button>Potential Pathway Timeline</button></a> |
-<a href="./NetworkingQA.md"><button>Networking Q&A Experience</button></a> |
-<a href="./Blog.md"><button>Personal Blog</button></a> |
-<a href="./"><button>Home</button></a>
+[About Me](./AboutMe.md) | [Job Opening](./JobOpening.md) | [Potential Pathway Timeline](./Timeline.md) | [Networking QA Experience](./NetworkingQA.md) | [Personal Blog](./Blog.md) | [Home](./)
+
