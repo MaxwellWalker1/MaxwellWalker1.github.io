@@ -11,4 +11,4 @@ I strive to excel in everything that I do. Currently, I am working to perfect my
 My results in the True Color test reflect my description of myself. Gold individuals exhibit the charactaristics of being organized, dependable, and prepared. This aligns with how I decribed myself in my personality section. <br> 
 
 ---
-[About Me](./AboutMe.md) | [Job Opening](./JobOpening.md) | [Potential Pathway Timeline](./Timeline.md) | [Networking QA Experience](./NetworkingQA.md) | [Personal Blog](./Blog.md) | [Home](./)
+[About Me](./AboutMe.md) | [Job Opening](./JobOpening.md) | [Potential Pathway Timeline](./Timeline.md) | [Networking QA Experience](./NetworkingQA.md) | [Personal Blog](./Blog.md) | [Home](./) | [Smart Goal](./SmartGoal.md)
