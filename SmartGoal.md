@@ -10,6 +10,8 @@ A SMART Goal consists of five parts:
 **Achievable**: The goal has to be realistic enough to be actually attainable. Although I knew my goal would be hard, I felt confident that I could do it. <br>
 **Relevant**: The goal has to be relevant to what you want to achieve. Personally, I felt that my goal would be a great way to build experience in computer science for my career. <br>
 **Time-Bound**: The goal has to have a time constraint. For my goal, the time constraint was when the portfolio assigment locked (Jan. 8).
+
+
 ## Steps to Success
 I had five significant milestones when working towards this goal:
 
