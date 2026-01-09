@@ -9,10 +9,6 @@ Going into the interview, I was mostly looking to get information about the job 
 ## Video of Interview
 <a href="https://drive.google.com/file/d/1KB8KrzlIRNzFmmeMJO2SLTG8Nje-6We2/view"> <img src="https://www.biblecenterchurch.com/wp-content/uploads/2018/10/video-placeholder-4453_1080x675.png" width="300"> </a>
 ***
-<a href="./AboutMe.md"><button>About Me</button></a> |
-<a href="./JobOpening.md"><button>Job Opening</button></a> |
-<a href="./Timeline.md"><button>Potential Pathway Timeline</button></a> |
-<a href="./NetworkingQA.md"><button>Networking Q&A Experience</button></a> |
-<a href="./Blog.md"><button>Personal Blog</button></a> |
-<a href="./"><button>Home</button></a>
+[About Me](./AboutMe.md) | [Job Opening](./JobOpening.md) | [Potential Pathway Timeline](./Timeline.md) | [Networking QA Experience](./NetworkingQA.md) | [Personal Blog](./Blog.md) | [Home](./)
+
 
