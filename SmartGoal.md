@@ -30,4 +30,4 @@ Step 1: gained practice in web development bu making a simple game in HTML (webs
 I think that working towards this goal was a very productive exercise in web development. I learned a lot, both about HTML programming and how to host a website. I had to figure out how to design, code, and implement the website all by myself, which I think is an impressive feat. I hope to embark on similar projects in the future, and I might even use this portfolio in my future career.
 
 ---
-[About Me](./AboutMe.md) | [Job Opening](./JobOpening.md) | [Potential Pathway Timeline](./Timeline.md) | [Networking QA Experience](./NetworkingQA.md) | [Personal Blog](./Blog.md) | [Home](./)
+[About Me](./AboutMe.md) | [Job Opening](./JobOpening.md) | [Potential Pathway Timeline](./Timeline.md) | [Networking QA Experience](./NetworkingQA.md) | [Personal Blog](./Blog.md) | [Home](./) | [Smart Goal](./SmartGoal.md)
