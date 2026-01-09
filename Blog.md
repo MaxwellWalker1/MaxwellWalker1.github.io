@@ -19,6 +19,5 @@ description: "<em>this page is for blog posts related to computer science and ot
 >
 >While this process of text generation is well and good if you're asking an AI to write an essay or answer an easy question, things start getting shaky when you ask it to manage your bank account. The issue that LLMS face is that you can't rely on what the average response to something is when you want a very precise, specific result. If the AI model has even a 10% chance of just making an illogical choice about something important because it's unable to actually think about what choice makes sense, that makes it almost impossible to use it for anything important. This is why AI is currently getting stuck in the "helpful assistant" phase: It's just consistent enough to reliably automate some of the more menial parts of office jobs (scheduling meetings, rephrasing emails), but it's nowhere near competent enough to effectively do complicated and risky work. Until AI technology advances to the point where LLMs can be trained to reason about what it's doing, AI will likely not replace any jobs that require complex thinking.
 
-***
-
-[About Me](./AboutMe.md) | [Job Opening](./JobOpening.md) | [Potential Pathway Timeline](./Timeline.md) | [Networking QA Experience](./NetworkingQA.md) | [Personal Blog](./Blog.md) | [Home](./)
+---
+[About Me](./AboutMe.md) | [Job Opening](./JobOpening.md) | [Potential Pathway Timeline](./Timeline.md) | [Networking QA Experience](./NetworkingQA.md) | [Personal Blog](./Blog.md) | [Home](./) | [Smart Goal](./SmartGoal.md)
