@@ -21,4 +21,4 @@ description: "<em>this page is for blog posts related to computer science and ot
 
 ***
 
-[back to home](./)
+[About Me](./AboutMe.md) | [Job Opening](./JobOpening.md) | [Potential Pathway Timeline](./Timeline.md) | [Networking QA Experience](./NetworkingQA.md) | [Personal Blog](./Blog.md) | [Home](./)
